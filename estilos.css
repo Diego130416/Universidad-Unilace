@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, blue, red);
+  color: white; /* Color del texto principal */
+}
+
+header {
+  background-color: #003366;
+  color: white;
+  padding: 20px;
+}
+
+.header-image {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  color: white; /* Color del título */
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #003366; /* Color de los enlaces de navegación */
+  background-color: white; /* Fondo blanco */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Bordes redondeados */
+  border: 2px solid #003366; /* Borde */
+  transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+nav ul li a:hover {
+  background-color: #003366; /* Fondo azul oscuro al pasar el ratón */
+  color: white; /* Texto blanco al pasar el ratón */
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+  background-color: rgba(255, 255, 255, 0.8); /* Blanco con transparencia */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  color: #003366; /* Color del texto en las celdas */
+}
+
+th {
+  background-color: #003366;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.8); /* Blanco con transparencia */
+}
+
+tr:hover {
+  background-color: rgba(221, 221, 221, 0.8); /* Gris claro con transparencia */
+}

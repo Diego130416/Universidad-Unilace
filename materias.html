@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Materias</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<img src="LOGO-U.png" alt="Universidad Latinoamericana del Centro de México" width="250" height="250">
+  <h1>Información de Materias</h1>
+  <form id="searchForm">
+    <label for="search" aria-label="Buscar por nombre o código">Buscar por nombre o código:</label>
+    <input type="text" id="search" name="search" aria-required="true">
+    <button type="button" onclick="searchMateria()">Buscar</button>
+  </form>
+  <table id="materiasTable" aria-live="polite">
+  </table>
+  <script src="materias.js"></script>
+</body>
+</html>

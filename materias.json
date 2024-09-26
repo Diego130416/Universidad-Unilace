@@ -1,0 +1,74 @@
+{
+  "materias": [
+    {
+      "nombre": "Matemáticas",
+      "codigo": "MAT101",
+      "creditos": 4,
+      "profesor": "Dr. García",
+      "horario": "Lunes 10:00-12:00"
+    },
+    {
+      "nombre": "Física",
+      "codigo": "FIS101",
+      "creditos": 3,
+      "profesor": "Dr. López",
+      "horario": "Martes 14:00-16:00"
+    },
+    {
+      "nombre": "Química",
+      "codigo": "QUI101",
+      "creditos": 4,
+      "profesor": "Dra. Martínez",
+      "horario": "Miércoles 08:00-10:00"
+    },
+    {
+      "nombre": "Biología",
+      "codigo": "BIO101",
+      "creditos": 3,
+      "profesor": "Dr. Hernández",
+      "horario": "Jueves 12:00-14:00"
+    },
+    {
+      "nombre": "Historia",
+      "codigo": "HIS101",
+      "creditos": 2,
+      "profesor": "Dra. González",
+      "horario": "Viernes 10:00-12:00"
+    },
+    {
+      "nombre": "Literatura",
+      "codigo": "LIT101",
+      "creditos": 3,
+      "profesor": "Dr. Ramírez",
+      "horario": "Lunes 14:00-16:00"
+    },
+    {
+      "nombre": "Filosofía",
+      "codigo": "FIL101",
+      "creditos": 2,
+      "profesor": "Dra. Fernández",
+      "horario": "Martes 08:00-10:00"
+    },
+    {
+      "nombre": "Economía",
+      "codigo": "ECO101",
+      "creditos": 4,
+      "profesor": "Dr. Torres",
+      "horario": "Miércoles 12:00-14:00"
+    },
+    {
+      "nombre": "Psicología",
+      "codigo": "PSI101",
+      "creditos": 3,
+      "profesor": "Dra. Ruiz",
+      "horario": "Jueves 14:00-16:00"
+    },
+    {
+      "nombre": "Derecho",
+      "codigo": "DER101",
+      "creditos": 4,
+      "profesor": "Dr. Pérez",
+      "horario": "Viernes 08:00-10:00"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="alumnos.xsd">
+  <alumno>
+    <nombre>Juan Pérez</nombre>
+    <numero_control>12345</numero_control>
+    <correo>juan.perez@gmail.com</correo>
+    <semestre>4</semestre>
+    <carrera>Ingeniería</carrera>
+  </alumno>
+  <alumno>
+    <nombre>María López</nombre>
+    <numero_control>12346</numero_control>
+    <correo>maria.lopez@gmail.com</correo>
+    <semestre>6</semestre>
+    <carrera>Arquitectura</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Carlos García</nombre>
+    <numero_control>12347</numero_control>
+    <correo>carlos.garcia@gmail.com</correo>
+    <semestre>4</semestre>
+    <carrera>Medicina</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Laura Martínez</nombre>
+    <numero_control>12348</numero_control>
+    <correo>laura.martinez@gmail.com</correo>
+    <semestre>10</semestre>
+    <carrera>Derecho</carrera>
+  </alumno>
+  <alumno>
+    <nombre>José Hernández</nombre>
+    <numero_control>12349</numero_control>
+    <correo>jose.hernandez@gmail.com</correo>
+    <semestre>6</semestre>
+    <carrera>Economía</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Ana González</nombre>
+    <numero_control>12350</numero_control>
+    <correo>ana.gonzalez@gmail.com</correo>
+    <semestre>1</semestre>
+    <carrera>Psicología</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Pedro Ramírez</nombre>
+    <numero_control>12351</numero_control>
+    <correo>pedro.ramirez@gmail.com</correo>
+    <semestre>10</semestre>
+    <carrera>Mecatronica</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Lucía Fernández</nombre>
+    <numero_control>12352</numero_control>
+    <correo>lucia.fernandez@example.com</correo>
+    <semestre>9</semestre>
+    <carrera>Arquitectura</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Diego Torres</nombre>
+    <numero_control>12353</numero_control>
+    <correo>diego.torres@gmail.com</correo>
+    <semestre>5</semestre>
+    <carrera>Medicina</carrera>
+  </alumno>
+  <alumno>
+    <nombre>Elena Ruiz</nombre>
+    <numero_control>12354</numero_control>
+    <correo>elena.ruiz@gmail.com</correo>
+    <semestre>8</semestre>
+    <carrera>Derecho</carrera>
+  </alumno>
+</alumnos>
